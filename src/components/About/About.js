@@ -15,7 +15,7 @@ const About = () => {
           <div className="col-md-6">
             <div className="about-right-section text-start p-4">
               <h6 className="mt-4">
-                About US{" "}
+                About Us{" "}
                 <span className="ms-3">
                   <img
                     src="https://cdn.shopify.com/s/files/1/0447/3569/2962/t/2/assets/waves.png"
